@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1640120196 source:c:\users\amam\desktop\snake game\snake game\app.cpp
+	<graphics.h>
+	<ctime>
+	<stdio.h>
+
+1266090614 c:\program files\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1640193317 source:c:\users\amam\desktop\snake game\current\app.cpp
+	<graphics.h>
+	<ctime>
+	<stdio.h>
+
+1641328952 source:c:\users\amam\desktop\snake game\level 2 -- done !\app.cpp
+	<graphics.h>
+	<climits>
+	<queue>
+	<ctime>
+	<stdio.h>
+
+1641334290 source:c:\users\amam\desktop\snake game\second snake game\app.cpp
+	<graphics.h>
+	<climits>
+	<queue>
+	<ctime>
+	<stdio.h>
+
+1641372546 source:e:\zyad mohamed ahmed ayad\second game\second snake game\app.cpp
+	<graphics.h>
+	<climits>
+	<queue>
+	<ctime>
+	<stdio.h>
+
+1266090614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266090614 d:\programs\graphics\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1641456404 source:c:\users\ayad\desktop\zyad mohamed ahmed ayad\second game\second snake game\app.cpp
+	<graphics.h>
+	<climits>
+	<queue>
+	<ctime>
+	<stdio.h>
+
